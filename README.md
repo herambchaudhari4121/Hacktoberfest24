@@ -1,8 +1,20 @@
 
 
 # Project Repository - HACKTOBERFEST 2024
+<!DOCTYPE html>
+<html>
+<body>
 
-Welcome to the Project Repository! This repository is organized by different technologies and contains various projects and algorithms categorized into specific folders. Below is a structure that explains how to navigate through the repository.
+<h2>Welcome to the Project Repository! This repository is organized by different technologies and contains various projects and algorithms categorized into specific folders. Below is a structure that explains how to navigate through the repository.
+
+</h2>
+
+<img src="https://hacktoberfest.com/_next/static/media/opengraph.9dc60c9d.png" alt="W3Schools.com" style="width:919px;height:450px;">
+
+</body>
+</html>
+
+
 
 ## Table of Contents
 
